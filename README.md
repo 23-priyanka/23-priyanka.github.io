@@ -4,14 +4,14 @@
   <p>
     📍 New Delhi, India | 
     📧 <a href="mailto:priyanka.pawapuri@gmail.com">priyanka.pawapuri@gmail.com</a> |
-    🔗 <a href="#">LinkedIn</a> |
-    🐙 <a href="#">GitHub</a>
+    🔗 <a href="https://www.linkedin.com/in/priyankabioinfo">LinkedIn</a> |
+    🐙 <a href="https://github.com/23-priyanka">GitHub</a>
   </p>
 </div>
 
 ---
 
-> **Bioinformatics Researcher** specializing in computational drug discovery, structural biology, transcriptomics analysis, and machine learning. Experienced in bridging the gap between advanced multi-omics data analysis and hands-on molecular techniques.
+> **Bioinformatics Researcher** specializing in computational drug discovery, structural biology, transcriptomics analysis, and machine learning. Experienced in bridging advanced multi-omics data analysis and hands-on molecular techniques.
 
 ---
 
@@ -24,7 +24,7 @@
 
 **Researcher | National Institute of Plant Genome Research (NIPGR)**
 *July 2025 – June 2026*
-* Executed MeRIP-seq analysis on human cancer datasets to accurately identify m6A methylation sites.
+* Executed MeRIP-seq analysis on human cancer datasets to identify m6A methylation sites accurately.
 * Analyzed comprehensive Ribo-seq and proteomics datasets across various plant species to identify and validate novel translated regions and non-coding ORFs.
 * Successfully integrated long-read sequencing, Ribo-seq, and proteomics data to validate complex fusion transcripts.
 
